@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  BaseProject
+
+  Created by TuanNVA on 04/07/2021.
+*/
+
+"common_error" = "Error";
+"common_error_message" = "Please try again later";
+"common_loading" = "Loading...";
+
+/* Splash screen */
+"splash_slogan" = "Github staffs";
+
+/* Home screen */
+"home_title" = "Home";
+
+/* Detail screen */
+"detail_title" = "Detail staff";
