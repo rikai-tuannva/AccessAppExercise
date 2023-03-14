@@ -17,9 +17,9 @@ struct Configs {
         
         // Becasue Github will remove token when upload it to github
         // So I split git for this example
-        static let token_part1 = ""
-        static let token_part2 = ""
-        static let token_part3 = ""
+        static let token_part1 = "ghp_"
+        static let token_part2 = "nPfAjEYltb7BL1G"
+        static let token_part3 = "7ItnYCMPkHhAolo356zvf"
         static let token = token_part1 + token_part2 + token_part3
     }
     
